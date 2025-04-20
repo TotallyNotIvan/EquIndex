@@ -1,0 +1,64 @@
+{
+  "equations": [
+    {
+      "title": "Newton's Second Law",
+      "equation": "F = m \\cdot a",
+      "subject": "Physics",
+      "variables": ["Force", "Acceleration"]
+    },
+    {
+      "title": "Kinetic Energy",
+      "equation": "KE = \\frac{1}{2} m v^2",
+      "subject": "Physics",
+      "variables": ["Mass", "Velocity"]
+    },
+    {
+      "title": "Area of a Circle",
+      "equation": "A = \\pi r^2",
+      "subject": "Geometry",
+      "variables": ["Radius"]
+    },
+    {
+      "title": "Pythagorean Theorem",
+      "equation": "a^2 + b^2 = c^2",
+      "subject": "Geometry",
+      "variables": ["Side a", "Side b", "Hypotenuse c"]
+    },
+    {
+      "title": "Ohm's Law",
+      "equation": "V = I R",
+      "subject": "Electrical Science",
+      "variables": ["Voltage", "Current", "Resistance"]
+    },
+    {
+      "title": "Power Equation (Electrical)",
+      "equation": "P = V I",
+      "subject": "Electrical Science",
+      "variables": ["Power", "Voltage", "Current"]
+    },
+    {
+      "title": "Coulomb's Law",
+      "equation": "F = k_e \\frac{q_1 q_2}{r^2}",
+      "subject": "Physics",
+      "variables": ["Force", "Charge 1", "Charge 2", "Distance"]
+    },
+    {
+      "title": "Gauss's Law",
+      "equation": "\\oint \\mathbf{E} \\cdot d\\mathbf{A} = \\frac{Q_{enc}}{\\epsilon_0}",
+      "subject": "Physics",
+      "variables": ["Electric Field", "Area", "Charge Enclosed"]
+    },
+    {
+      "title": "Kirchhoff's Voltage Law",
+      "equation": "\\sum V = 0",
+      "subject": "Electrical Science",
+      "variables": ["Voltage"]
+    },
+    {
+      "title": "Kirchhoff's Current Law",
+      "equation": "\\sum I = 0",
+      "subject": "Electrical Science",
+      "variables": ["Current"]
+    }
+  ]
+}
